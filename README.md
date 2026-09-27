@@ -13,7 +13,8 @@
   ✅ 前端页面：Web前端连接MetaMask钱包，调用智能合约读写链上病历数据
 - 运行方式：README内包含环境配置、合约编译部署、前端启动完整步骤
 
-  ### 项目2：Java Web房屋租赁管理系统
+
+### 项目2：Java Web房屋租赁管理系统
 - 仓库地址：[跳转项目](https://github.com/Calicath/house_rent.git)
 - 技术栈：Java Servlet + Tomcat + MySQL + JSP + Maven
 - 项目简介：
