@@ -1,6 +1,6 @@
 # Calicath.github.io
 个人项目作品集
-### 项目1：基于Hardhat的区块链电子病历系统
+### 项目1：基于区块链的数字病历存证系统
 - 仓库地址：[跳转项目](https://github.com/Calicath/blockchain_medical.git)
 - 技术栈：
 - 前端：React + TypeScript + Tailwind CSS
