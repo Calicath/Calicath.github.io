@@ -24,7 +24,7 @@
 - ✅ 配套启动脚本，一键初始化数据库与Tomcat服务
 
 ### 项目3：基于深度学习的番茄病害识别系统
-- 仓库地址：[跳转项目](#)
+- 仓库地址：[跳转项目](https://github.com/Calicath/Tomato_Disease_Diagnosis.git)
 - 技术栈：
   - 深度学习：TensorFlow + Keras + ResNet50
   - 图像处理：Pillow + OpenCV
@@ -40,6 +40,18 @@
 - 运行方式：README内包含环境配置、模型加载、依赖安装及Gradio服务启动完整步骤。
 
 ## 🛠 技能栈
-编程语言：Java、Solidity、TypeScript、SQL
-框架工具：Hardhat、Maven、Git
-其他：MySQL、Tomcat、Vite
+编程语言：Java、Python、Solidity、TypeScript、SQL
+数据分析与人工智能：
+- TensorFlow、Keras、ResNet50
+- NumPy、Pillow
+- 数据清洗、数据分析、模型评估
+数据可视化：
+- Matplotlib、Seaborn
+- 混淆矩阵可视化
+- 分类结果分析
+- 训练过程曲线绘制
+- Grad-CAM模型解释可视化
+框架工具：
+- Gradio、Hardhat、Maven、Git
+数据库与开发环境：
+- MySQL、Tomcat、Vite
